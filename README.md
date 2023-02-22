@@ -98,7 +98,9 @@ Pokud chcete, jako bonus můžou metody přijímat i barvu kreslení. Není to a
 
 # Část 2
 
-Pomocí výše odladěných metod nakreslete následující obrázky – zmrzlinu, sněhuláka a mašinku. Pro mašinku můžete použít buď připravenou metodu pro rovnostranný trojúhelník (mašinka pak vepředu nebude mít pluh ale spíš šipku), nebo si vytvořte ještě metodu pro nakreslení pravoúhlého trojúhelníku).
+Pomocí výše odladěných metod nakreslete následující obrázky – zmrzlinu, sněhuláka a mašinku.
+Nepředpokládá se, že váš obrázek bude úplně stejný, jako vzorové obrázky – přesné tvary a rozměry se mohou lišit.
+Např. pro mašinku nebo zmrzlinu můžete použít buď připravenou metodu pro rovnostranný trojúhelník (mašinka pak vepředu nebude mít pluh ale spíš šipku), nebo si vytvořte ještě metodu pro nakreslení pravoúhlého trojúhelníku).
 
 ![zmrzlina](/obrazky/ukol03-zmrzlina.svg)
 
